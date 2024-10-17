@@ -1,4 +1,9 @@
 # tic-tac-toc
+
+UID - 23BCA10204 
+SEC - 23BCA-3 'A'
+
+
 minor project for data structure lab 
 Welcome to Tic-Tac-Toe!
 -------------
